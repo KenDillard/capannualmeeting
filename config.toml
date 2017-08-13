@@ -1,0 +1,16 @@
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "public"
+buildDrafts = false
+theme = "capannualmeeting"
+baseURL = "https://github.com/kdillar/capannualmeeting"
+languageCode = "en-us"
+title = "CAP18 Home &#8211; The Pathologists&#8217; Meeting"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  subtitle = "THE Pathologists' Meeting"
+  author = "College of American Pathologists"
